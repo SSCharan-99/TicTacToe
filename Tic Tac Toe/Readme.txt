@@ -7,4 +7,4 @@
 Software requirements
 Language - python
 Tkinter Module in Python
-IDE - VS code 
+Integrated development environment - VS code 
